@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.user-name {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.user-pic {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
